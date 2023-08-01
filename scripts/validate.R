@@ -22,6 +22,7 @@ source("scripts/setup.R")
 # run this every time you want to continue your annotation
 
 # start validation -------------------------------------------------------------
+library(annotinder)
 start_annotator("data/annotinder_jobs/val.db", background = TRUE)
 
 
