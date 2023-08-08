@@ -8,7 +8,8 @@ renv::activate()
 renv::restore()
 
 # set coder name ---------------------------------------------------------------
-coder <- "aa"
+coder <- "double"
+# coder <- "aa"
 # coder <- "ch"
 
 # setup annotation environment -------------------------------------------------
